@@ -1,0 +1,66 @@
+{
+    "pong": {
+        "elo": 320.24671331620516,
+        "checkpoints": [
+            {
+                "steps": 349910,
+                "file_path": "results\\PongRun1\\pong\\pong-349910.onnx",
+                "reward": -1.8813332083324592,
+                "creation_time": 1776875894.773442,
+                "auxillary_file_paths": [
+                    "results\\PongRun1\\pong\\pong-349910.pt"
+                ]
+            },
+            {
+                "steps": 399913,
+                "file_path": "results\\PongRun1\\pong\\pong-399913.onnx",
+                "reward": -1.5044999066740274,
+                "creation_time": 1776876192.1729815,
+                "auxillary_file_paths": [
+                    "results\\PongRun1\\pong\\pong-399913.pt"
+                ]
+            },
+            {
+                "steps": 449983,
+                "file_path": "results\\PongRun1\\pong\\pong-449983.onnx",
+                "reward": -2.175375008955598,
+                "creation_time": 1776876449.9428158,
+                "auxillary_file_paths": [
+                    "results\\PongRun1\\pong\\pong-449983.pt"
+                ]
+            },
+            {
+                "steps": 499913,
+                "file_path": "results\\PongRun1\\pong\\pong-499913.onnx",
+                "reward": -0.9436665574709574,
+                "creation_time": 1776876709.7515004,
+                "auxillary_file_paths": [
+                    "results\\PongRun1\\pong\\pong-499913.pt"
+                ]
+            },
+            {
+                "steps": 540563,
+                "file_path": "results\\PongRun1\\pong\\pong-540563.onnx",
+                "reward": -1.267666518688202,
+                "creation_time": 1776877090.233569,
+                "auxillary_file_paths": [
+                    "results\\PongRun1\\pong\\pong-540563.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 540563,
+            "file_path": "results\\PongRun1\\pong.onnx",
+            "reward": -1.267666518688202,
+            "creation_time": 1776877090.233569,
+            "auxillary_file_paths": [
+                "results\\PongRun1\\pong\\pong-540563.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

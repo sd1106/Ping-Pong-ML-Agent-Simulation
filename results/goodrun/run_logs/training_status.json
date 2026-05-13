@@ -1,0 +1,47 @@
+{
+    "Paddle Behavior": {
+        "checkpoints": [
+            {
+                "steps": 52585,
+                "file_path": "results\\goodrun\\Paddle Behavior\\Paddle Behavior-52585.onnx",
+                "reward": 8.220154374837875,
+                "creation_time": 1776455153.003614,
+                "auxillary_file_paths": [
+                    "results\\goodrun\\Paddle Behavior\\Paddle Behavior-52585.pt"
+                ]
+            },
+            {
+                "steps": 85834,
+                "file_path": "results\\goodrun\\Paddle Behavior\\Paddle Behavior-85834.onnx",
+                "reward": 16.971409186720848,
+                "creation_time": 1776455621.024378,
+                "auxillary_file_paths": [
+                    "results\\goodrun\\Paddle Behavior\\Paddle Behavior-85834.pt"
+                ]
+            },
+            {
+                "steps": 268338,
+                "file_path": "results\\goodrun\\Paddle Behavior\\Paddle Behavior-268338.onnx",
+                "reward": 102.10117228825887,
+                "creation_time": 1776458101.2594078,
+                "auxillary_file_paths": [
+                    "results\\goodrun\\Paddle Behavior\\Paddle Behavior-268338.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 268338,
+            "file_path": "results\\goodrun\\Paddle Behavior.onnx",
+            "reward": 102.10117228825887,
+            "creation_time": 1776458101.2594078,
+            "auxillary_file_paths": [
+                "results\\goodrun\\Paddle Behavior\\Paddle Behavior-268338.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.2.0.dev0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
