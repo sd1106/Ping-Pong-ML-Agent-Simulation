@@ -102,7 +102,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ml-agents": {
-      "version": "file:C:/Users/shrey/Downloads/ml-agents-develop (1)/ml-agents-develop/com.unity.ml-agents",
+      "version": "file:C:/Users/shrey/Downloads/ml-agents/com.unity.ml-agents",
       "depth": 0,
       "source": "local",
       "dependencies": {
